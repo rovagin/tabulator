@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-An easy to use interactive table generation JavaScript library
+An easy to use interactive table generation  JavaScript library
 </p>
 
 <p align="center">
